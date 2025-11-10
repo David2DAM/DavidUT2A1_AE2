@@ -1,4 +1,5 @@
 # David Rodriguez Castellano
+Este proyecto de git esta en el comentario por que cuando fui a hacer lo que indicaba la tarea me rompio el proyecto dejando inaccesible la informacion, por lo tanto adjunte este en el que esta el proyectod e la primera actividad y el de las siguientes lo hare en distintos
 # React + TypeScript + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
